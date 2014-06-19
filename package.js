@@ -6,7 +6,7 @@ Package.on_use(function (api) {
     api.use('jquery-ui', 'client');
     api.add_files([
         'css/fullcalendar.css',
-        'lib/fullcalendar.js',
+        'lib/fullcalendar.min.js',
         'lib/lang-all.js',
         'lib/gcal.js',
     ], 'client');
