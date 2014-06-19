@@ -1,0 +1,12 @@
+{
+    "name": "sift-fullcalendar2.0",
+    "description": "Full-sized drag and drop event calendar that uses FullCalendar 2.0.1 (jQuery plugin) intended for Sift use",
+    "homepage": "https://github.com/J-Katzen/sift-fullcalendar2",
+    "author": "Jacob Katzen",
+    "version": "1.0.0",
+    "git": "https://github.com/J-Katzen/sift-fullcalendar2.git",
+    "packages": {
+        "jquery-ui": "1.9.2",
+        "moment": {}
+    }
+}
