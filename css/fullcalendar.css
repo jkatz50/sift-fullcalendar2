@@ -527,8 +527,8 @@ table.fc-border-separate {
 	}
 	
 .fc-agenda-allday .fc-day-content {
-	min-height: 34px; /* TODO: doesnt work well in quirksmode */
-	_height: 34px;
+	min-height: 20px; /* TODO: doesnt work well in quirksmode */
+	_height: 20px;
 	}
 	
 /* divider (between all-day and slots) */
