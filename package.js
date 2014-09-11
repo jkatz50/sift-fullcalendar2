@@ -1,6 +1,6 @@
 Package.describe({
     summary: "Full-sized drag and drop event calendar (jQuery plugin)",
-  version: "1.0.10",
+  version: "1.0.11",
   git: "https://github.com/J-Katzen/sift-fullcalendar2.git"
 });
 
