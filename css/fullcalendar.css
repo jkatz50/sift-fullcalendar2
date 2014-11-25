@@ -29,7 +29,7 @@ body .fc { /* extra precedence to overcome jqui */
 .fc-unthemed tbody,
 .fc-unthemed .fc-row,
 .fc-unthemed .fc-popover {
-	border-color: #ddd;
+	border-color: rgba(221, 221, 221, 0.1);
 }
 
 .fc-unthemed .fc-popover {
@@ -277,7 +277,7 @@ previous button's border...
 .fc hr {
 	height: 0;
 	margin: 0;
-	padding: 0 0 2px; /* height is unreliable across browsers, so use padding */
+	padding: 0 0 0px; /* height is unreliable across browsers, so use padding */
 	border-style: solid;
 	border-width: 1px 0;
 }
